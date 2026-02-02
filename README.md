@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Repo](https://github.com/suzubu/blog-preview-card-main)
-- Live Site URL: [ive site](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://your-live-site-url.com)
 
 ## My process
 
