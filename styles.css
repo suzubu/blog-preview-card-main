@@ -15,7 +15,7 @@
 
 body {
   background-color: var(--yellow);
-  font-family: "Figtree", sans-serif;
+  font-family: "Figtree-Variable", sans-serif;
   color: var(--gray-950);
   line-height: 150%;
   display: flex;
